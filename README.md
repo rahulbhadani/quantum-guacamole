@@ -11,3 +11,13 @@ References
 2. Introduction to Photon Communication By Cherif Bendjaballah
 
 3. Advanced Digital Optical Communications By Le Nguyen Binh
+
+
+**Photon Counting**: Photon counting is a technique in which individual photons are counted using some single-photon detector (SPD). The counting efficiency is determined by the quantum efficiency and any electronic losses that are present in the system. Many photodetectors can be configured to detect individual photons, each with relative advantages and disadvantages, including a photomultiplier, geiger counter, single-photon avalanche diode, superconducting nanowire single-photon detector, transition edge sensor, or scintillation counter. Charge-coupled devices can also sometimes be used.
+
+References
+----------
+
+1. https://web.archive.org/web/20200326034103/https://www.chem.uci.edu/~unicorn/243/handouts/PMTandCCD.pdf
+2. https://web.archive.org/web/20200326034108/https://pdfs.semanticscholar.org/db80/a81119f61f0a369f5cec36395161c7a299d3.pdf
+
