@@ -6,7 +6,7 @@
 References
 ----------
 
-1. https://web.archive.org/web/20200326022716/https://www.rfwireless-world.com/Terminology/heterodyne-receiver-versus-homodyne-receiver.html for more information.
+1. https://web.archive.org/web/20200326022716/https://www.rfwireless-world.com/Terminology/heterodyne-receiver-versus-homodyne-receiver.html.
 
 2. Introduction to Photon Communication By Cherif Bendjaballah
 
