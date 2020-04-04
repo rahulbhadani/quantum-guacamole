@@ -1,5 +1,7 @@
 # quantum-guaquamole
-## Curated Definitions from Quantum Information Processing
+## Curated Definitions and Readings from Quantum Information Processing
+
+### Definitions
 
 **Homodyne Detection and Heterodyne Detection**: Homodyne detection is a method of extracting information encoded as modulation of the phase and/or frequency of an oscillating signal, by comparing that signal with a standard oscillation that would be idential to the signal if it carried no information. Here, *Homodyne* signifies single frequency. In *Heterodyne Detection* dual frequencies are involved. A receiver is called Homodyne receiver when the carrier frequency *fc* is the local frequency *fLO* are same. When frequency of local oscillator is different, then the detector is called*Heterodyne Detector*.
 
@@ -21,3 +23,6 @@ References
 1. https://web.archive.org/web/20200326034103/https://www.chem.uci.edu/~unicorn/243/handouts/PMTandCCD.pdf
 2. https://web.archive.org/web/20200326034108/https://pdfs.semanticscholar.org/db80/a81119f61f0a369f5cec36395161c7a299d3.pdf
 
+### Readings
+1. Yuan, R., Zhao, M., Han, S., & Cheng, J. (2020). Kennedy Receiver Using Threshold Detection and Optimized Displacement Under Thermal Noise. IEEE Communications Letters.
+2. Bhadani, R., Grace, M., Djordjevic, I. B., Sprinkle, J., & Guha, S. (2020). Programming the Kennedy Receiver for Capacity Maximization versus Minimizing One-shot Error Probability. arXiv preprint arXiv:2002.09275.
